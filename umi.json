@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "TechPanelGM",
+      "oem": "Xiaomi",
+      "device": "Mi 10",
+      "filename": "EvolutionX-14.0-20240812-umi-v9.3-Unofficial-V2_2.zip",
+      "download": "https://sourceforge.net/projects/evolution-x/files/umi/14/EvolutionX-14.0-20240812-umi-v9.3-Unofficial.zip/download",
+      "timestamp": 1723472898,
+      "md5": "90e63fca91accdabe9f7a50b0202852e",
+      "sha256": "3dd92e34040a520ee3a6352188f19ac4648854dd6f4b520915d72b937e99b2ec",
+      "size": 2890620656,
+      "version": "9.3",
+      "buildtype": "COMMUNITY",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "telegram": ""
+    }
+  ]
+}
