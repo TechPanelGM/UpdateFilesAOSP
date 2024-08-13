@@ -3,19 +3,19 @@
     {
       "maintainer": "TechPanelGM",
       "oem": "Xiaomi",
-      "device": "Mi 10",
-      "filename": "EvolutionX-14.0-20240812-umi-v9.3-Unofficial-V2_2.zip",
-      "download": "https://example.com",
-      "timestamp": 1723472898,
-      "md5": "90e63fca91accdabe9f7a50b0202852e",
-      "sha256": "3dd92e34040a520ee3a6352188f19ac4648854dd6f4b520915d72b937e99b2ec",
-      "size": 2890620656,
+      "device": "MI 10",
+      "filename": "EvolutionX-14.0-20240813-umi-v9.3-Unofficial.zip",
+      "download": "http://212.132.70.98/xiaomi/umi/EvolutionX-14.0-20240813-umi-v9.3-Unofficial.zip",
+      "timestamp": 1723534350,
+      "md5": "c6af1eb9e184805e1eae3c620a967d73",
+      "sha256": "7c30587df52f8d3e54fa2746dce2a800801470c2d80ecd55af5212abf0e3718d",
+      "size": 2902259864,
       "version": "9.3",
       "buildtype": "COMMUNITY",
-      "forum": "",
+      "forum": "https://xdaforums.com/t/evolution-x-community-xiaomi-mi-10.4670605/",
       "firmware": "",
       "paypal": "",
-      "telegram": ""
+      "telegram": "https://t.me/EvolutionXXiaomiMi10Series"
     }
   ]
 }
