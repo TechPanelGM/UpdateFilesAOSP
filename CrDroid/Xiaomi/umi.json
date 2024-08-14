@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "TechPanelGM",
+                        "oem": "Xiaomi",
+                        "device": "MI 10",
+                        "filename": "crDroidAndroid-14.0-20240813-umi-v10.7.zip",
+                        "download": "https://sourceforge.net/projects/crdroid/files/umi/10.x/crDroidAndroid-14.0-20240813-umi-v10.7.zip/download",
+                        "timestamp": 1723581739,
+                        "md5": "55934d905ee558903965bb417f05eac1",
+                        "sha256": "30dd85643f3836506d5fd376ff49480410d37536b752be61071dd11036bae6ab",
+                        "size": 2066405926,
+                        "version": "10.7",
+                        "buildtype": "COMMUNITY",
+                        "forum": "https://xdaforums.com/t/crdroid-stable-xiaomi-mi-10.4660391/",
+                        "gapps": "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/NikGapps-U/26-Jun-2024/NikGapps-crdroid-official-arm64-14-20240626-signed.zip/download",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/crDroid_XiaomiMi10Series",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": "https://github.com/Luffitys/android_kernel_xiaomi_sm8250-MagicTime"
+                }
+        ]
+}
